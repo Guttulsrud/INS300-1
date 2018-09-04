@@ -199,6 +199,7 @@ df <- data.frame(
 
 ### Extracting data from of a data frame
 Given the data frame:
+
 | fruit   | amount |
 |---------|--------|
 | banana  |   10   |
