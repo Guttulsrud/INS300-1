@@ -310,4 +310,6 @@ rmse(predict(squared_poly, test_data), test_data$dist)
 rmse(predict(qubed_poly, test_data), test_data$dist) 
 ## [1] 81.2045
 ```
+## References
+Mailund, Thomas. Beginning Data Science in R. Apress, 2017.
 

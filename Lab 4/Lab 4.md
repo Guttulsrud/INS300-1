@@ -351,3 +351,5 @@ Now take the data you just imported and examine various summaries. It is not so 
 
 ### Using tidyr
 Look at the dplyr example in the book. Find the example of plotted `Sepal.Length` and `Sepal.Width` for each species. Do the same thing for `Petal.Length` and `Petal.Width`. If there is something similar you can do with the dataset you imported in the first exercise, try doing it with that dataset as well.
+## References
+Mailund, Thomas. Beginning Data Science in R. Apress, 2017.
