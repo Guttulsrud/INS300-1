@@ -1,8 +1,5 @@
-# LAB 7
+# LAB 8
 
-# Agenda
-* Supervised Machine Learning: Classification 
-* Unsupervised learning
 
 # Supervised learning: Classification
 
